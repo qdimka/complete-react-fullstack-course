@@ -1,0 +1,242 @@
+[
+    {
+        "source": {
+            "id": null,
+            "name": "Gazeta.ru"
+        },
+        "author": null,
+        "title": "В Иркутске из-за ливней обрушился потолок ТЦ",
+        "description": "Посетители торгово-развлекательного центра «Сильвермолл» в Иркутске сообщили в инстаграме, что потолок первого этажа здания обвалился из-за сильных ливней.",
+        "url": "https://www.gazeta.ru/social/news/2018/07/02/n_11731501.shtml",
+        "urlToImage": "https://img.gazeta.ru/files3/727/11754727/RIAN_3155847.HR-pic905-895x505-70303.jpg",
+        "publishedAt": "2018-07-02T10:15:29Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gazeta.ru"
+        },
+        "author": null,
+        "title": "Путин поздравил Обрадора с победой на президентских выборах в Мексике",
+        "description": "Президент России Владимир Путин поздравил Андреса Мануэля Лопеса Обрадора с победой на выборах президента в Мексике, сообщает официальный сайт Кремля.",
+        "url": "https://www.gazeta.ru/politics/news/2018/07/02/n_11731273.shtml",
+        "urlToImage": "https://img.gazeta.ru/files3/483/11794483/upload-TASS_27259182-pic905-895x505-1580.jpg",
+        "publishedAt": "2018-07-02T09:59:10Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Ria.ru"
+        },
+        "author": "РИА Новости",
+        "title": "Ряд предложений по изменению системы аккредитации вузов внесли в проект",
+        "description": "",
+        "url": "https://ria.ru/society/20180702/1523769216.html",
+        "urlToImage": "https://cdn2.img.ria.ru/images/150807/44/1508074456.jpg",
+        "publishedAt": "2018-07-02T09:52:37Z"
+    },
+    {
+        "source": {
+            "id": "lenta",
+            "name": "Lenta"
+        },
+        "author": null,
+        "title": "Эстония потребовала остановить строительство «Северного потока-2»",
+        "description": "Министр иностранных дел Эстонии Свен Миксер полагает, что строительство газопровода «Северный поток-2» должно быть остановлено. По мнению министра, газопровод является не экономическим, а политическим проектом. «Это рычаг, с помощью которого Россия хочет вмеш…",
+        "url": "https://lenta.ru/news/2018/07/02/stop/",
+        "urlToImage": "https://icdn.lenta.ru/images/2018/07/02/11/20180702115157307/detail_4701045b970df553ee32e0f612700532.jpg",
+        "publishedAt": "2018-07-02T09:38:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Www.aif.ru"
+        },
+        "author": null,
+        "title": "Собянин открыл движение по новому Крылатскому мосту",
+        "description": "По словам мэра Москвы, строительство Северо-Западной хорды находится на завершающем этапе",
+        "url": "http://www.aif.ru/auto/roads/sobyanin_otkryl_dvizhenie_po_novomu_krylatskomu_mostu",
+        "urlToImage": "https://images.aif.ru/014/570/9580f4d9cca364c22e9953f9a6279bbc.jpg",
+        "publishedAt": "2018-07-02T09:38:00Z"
+    },
+    {
+        "source": {
+            "id": "rbc",
+            "name": "RBC"
+        },
+        "author": null,
+        "title": "Пранкеры разыграли главу СБУ от лица Бабченко",
+        "description": "Российские пранкеры Владимир Кузнецов и Алексей Столяров, известные как Вован и Лексус, разыграли главу Службы безопасности Украины (СБУ) Василия Грицака от лица журналиста Аркадия Бабченко, ...",
+        "url": "https://www.rbc.ru/rbcfreenews/5b39ef969a794773713dec81",
+        "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/9/58/755305241255589.jpg",
+        "publishedAt": "2018-07-02T09:35:53Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Ria.ru"
+        },
+        "author": "РИА Новости",
+        "title": "Путин присвоил возрожденным частям российской армии почетные наименования",
+        "description": "",
+        "url": "https://ria.ru/defense_safety/20180702/1523764063.html",
+        "urlToImage": "https://cdn4.img.ria.ru/images/152004/29/1520042984.jpg",
+        "publishedAt": "2018-07-02T09:08:54Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Svoboda.org"
+        },
+        "author": "RFE/RL",
+        "title": "Партия \"Яблоко\" отказалась от участия в выборах мэра Москвы",
+        "description": "У партии не осталось времени для проведения конференции для выдвижения кандидата и сбора подписей муниципальных депутатов в его поддержку",
+        "url": "https://www.svoboda.org/a/29331766.html",
+        "urlToImage": "https://gdb.rferl.org/FBBDD9AC-2D49-4B58-9680-EA68DBF5ABE7_cx40_cy3_cw60_w1200_r1_s.jpg",
+        "publishedAt": "2018-07-02T09:05:11Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tass.ru"
+        },
+        "author": null,
+        "title": "Аксенов назвал смешной ситуацию с обозначением Крымского моста по-украински на Google Maps",
+        "description": "Глава Крыма предположил, что таким образом компания пытается совместить реальность с \"генеральной линией партии\"",
+        "url": "http://tass.ru/obschestvo/5340146",
+        "urlToImage": "https://phototass2.cdnvideo.ru/width/1200_4ce85301/tass/m2/uploads/i/20180702/4735969.jpg",
+        "publishedAt": "2018-07-02T08:39:00Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vesti.ru"
+        },
+        "author": null,
+        "title": "Ким Чен Ын приехал с инспекцией на Lada Priora",
+        "description": null,
+        "url": "https://auto.vesti.ru/news/show/news_id/697382/",
+        "urlToImage": null,
+        "publishedAt": "2018-07-02T08:27:44Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Ria.ru"
+        },
+        "author": "РИА Новости",
+        "title": "Бомбардировщик Ту-22М3 сможет нести четыре гиперзвуковые ракеты \"Кинжал\"",
+        "description": "",
+        "url": "https://ria.ru/defense_safety/20180702/1523755997.html",
+        "urlToImage": "https://cdn4.img.ria.ru/images/152375/97/1523759769.jpg",
+        "publishedAt": "2018-07-02T08:14:03Z"
+    },
+    {
+        "source": {
+            "id": "lenta",
+            "name": "Lenta"
+        },
+        "author": null,
+        "title": "Рубль оказался самой слабой валютой",
+        "description": "Российский рубль за первые шесть месяцев 2018 года продемонстрировал самое сильное падение по отношению к доллару среди всех национальных валют на постсоветском пространстве. Согласно подсчетам аналитиков, в первом полугодии российская валюта просела на восем…",
+        "url": "https://lenta.ru/news/2018/07/02/rouble/",
+        "urlToImage": "https://icdn.lenta.ru/images/2018/07/02/10/20180702102847570/detail_44261f99e81ed41dffbff94191eb5596.jpg",
+        "publishedAt": "2018-07-02T08:13:00Z"
+    },
+    {
+        "source": {
+            "id": "rbc",
+            "name": "RBC"
+        },
+        "author": null,
+        "title": "Путин продлил меры безопасности при транзите украинских товаров",
+        "description": "Президент России Владимир Путин продлил действие указа по обеспечению экономической безопасности и национальных интересов при транзите украинских товаров через территорию России в Казахстан и ...",
+        "url": "https://www.rbc.ru/rbcfreenews/5b39d1f29a79476b55367565",
+        "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/5/28/755305185081285.jpg",
+        "publishedAt": "2018-07-02T08:01:59Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Championat.com"
+        },
+        "author": "Сергей Титов",
+        "title": "Испания – Россия – 1:1. Чемпионат мира – 2018. Тактический разбор",
+        "description": "Главные тактические тезисы исторического матча с Испанией.",
+        "url": "https://www.championat.com/football/article-3478809-ispanija--rossija--11-chempionat-mira--2018-takticheskij-razbor.html",
+        "urlToImage": "https://img.championat.com/news/social/4/a0/3478809.jpg",
+        "publishedAt": "2018-07-02T08:00:08Z"
+    },
+    {
+        "source": {
+            "id": "rbc",
+            "name": "RBC"
+        },
+        "author": null,
+        "title": "О желании уехать из России заявили 31% молодых россиян",
+        "description": "Только 10% россиян рассказали социологам о своем желании уехать жить за границу. При этом среди респондентов в возрасте от 18 до 24 лет этот процент в три раза выше",
+        "url": "https://www.rbc.ru/society/02/07/2018/5b39cc759a79476a67d3b610",
+        "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/7/01/755305169935017.jpg",
+        "publishedAt": "2018-07-02T07:37:13Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vesti.ru"
+        },
+        "author": "Белкин Николай",
+        "title": "Совфед поддержал идею блокировать краденые и \"серые\" телефоны",
+        "description": "В скором будущем украденным или нелегально ввезенным в Россию телефоном станет невозможно пользоваться в сетях сотовых операторов: они начнут блокировать такие аппараты по коду IMEI. Такое предложение содержится в проекте, поддержанном в Совете Федерации.",
+        "url": "https://hitech.vesti.ru/article/875885/",
+        "urlToImage": "https://cdn-st1.rtr-vesti.ru/vh/pictures/bq/165/494/0.jpg",
+        "publishedAt": "2018-07-02T07:25:30Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Interfax.ru"
+        },
+        "author": null,
+        "title": "Самолет \"Таджик Эйр\" вернулся в \"Домодедово\" из-за разгерметизации",
+        "description": "Инженеры таджикской авиакомпании \"Таджик Эйр\" направлены в московский аэропорт \"Домодедово\" для осмотра экстренно севшего самолета, сообщили в понедельник журналистам в пресс-службе авиакомпании.",
+        "url": "http://www.interfax.ru/moscow/619291",
+        "urlToImage": "http://www.interfax.ru/aspimg/619291.png",
+        "publishedAt": "2018-07-02T07:18:36Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vesti.ru"
+        },
+        "author": null,
+        "title": "Роскачество поделилось результатами второго этапа проверки пива",
+        "description": null,
+        "url": "https://www.vesti.ru/doc.html?id=3033697",
+        "urlToImage": null,
+        "publishedAt": "2018-07-02T05:03:38Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Kommersant.ru"
+        },
+        "author": null,
+        "title": "Пожар в торговом центре «Атриум» потушен",
+        "description": "Подробнее на сайте",
+        "url": "https://www.kommersant.ru/doc/3670086",
+        "urlToImage": "https://im5.kommersant.ru/SocialPics/3670086_26_0_581677626",
+        "publishedAt": "2018-06-27T17:29:43Z"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Vedomosti.ru"
+        },
+        "author": null,
+        "title": "Премьер Дании призвал ЕС оценить необходимость проекта «Северный поток – 2»",
+        "description": null,
+        "url": "https://www.vedomosti.ru/business/news/2018/06/27/773927-premer-danii-prizval-otsenit-riski-proekta-severnii-potok-",
+        "urlToImage": null,
+        "publishedAt": "2018-06-27T10:50:47Z"
+    }
+]
